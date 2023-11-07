@@ -26,7 +26,6 @@ Welcome to KeaDHCPManger's documentation!
 
    사용법/contents_init.md
    사용법/contents_login.md
-   사용법/contents_init.md
 
 
 .. toctree::
