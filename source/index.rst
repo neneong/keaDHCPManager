@@ -28,7 +28,8 @@ Welcome to KeaDHCPManger's documentation!
    :caption: 사용법:
 
    사용법/contents_init.md
-   사용법/contents_login.md
+   사용법/contents_kea_server.md
+   사용법/contents_subnet.md
 
 
 .. toctree::
