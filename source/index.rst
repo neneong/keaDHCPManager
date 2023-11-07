@@ -13,13 +13,19 @@ Welcome to KeaDHCPManger's documentation!
    소개/contents_login.md
    소개/contents_info.md
 
+.. toctree::
+   :maxdepth: 2
    :caption: 다운로드:
    다운로드/contents_installation.md
 
+.. toctree::
+   :maxdepth: 2
    :caption: 사용법:
    사용법/contents_login.md
    사용법/contents_init.md
 
+.. toctree::
+   :maxdepth: 2
    :caption: 기타:
    기타/toaster.md
 
