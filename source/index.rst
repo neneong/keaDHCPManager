@@ -10,8 +10,8 @@ Welcome to KeaDHCPManger's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   contents/contents_1.md
-   contents/contents_2.md
+   contents/contents_login.md
+   contents/contents_info.md
 
 
 Indices and tables
