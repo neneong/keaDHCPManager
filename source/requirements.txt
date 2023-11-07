@@ -9,7 +9,6 @@ docutils==0.18.1
 idna==3.4
 Jinja2==3.1.2
 joblib==1.2.0
-llvmlite==0.39.1
 lxml==4.9.1
 MarkupSafe==2.1.1
 mutagen==1.46.0
