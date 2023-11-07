@@ -11,6 +11,8 @@ Welcome to KeaDHCPManger's documentation!
    :caption: 소개:
 
    소개/contents_1_info.md
+   소개/contents_2_platform.md
+   소개/contents_3_require_software.md
 
 
 .. toctree::
@@ -26,7 +28,6 @@ Welcome to KeaDHCPManger's documentation!
 
    사용법/contents_init.md
    사용법/contents_login.md
-   사용법/contents_init.md
 
 
 .. toctree::
