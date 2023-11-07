@@ -18,6 +18,7 @@ Welcome to KeaDHCPManger's documentation!
 
    :caption: 사용법:
    사용법/contents_login.md
+   사용법/contents_init.md
 
    :caption: 기타:
    기타/toaster.md
