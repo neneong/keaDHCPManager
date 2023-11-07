@@ -8,6 +8,7 @@ Welcome to KeaDHCPManger's documentation!
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
    :caption: 소개:
 
    소개/contents_1_info.md
@@ -32,9 +33,13 @@ Welcome to KeaDHCPManger's documentation!
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
    :caption: 기타:
 
    기타/etc.md
+   기타/contents_developer.md
+   기타/contents_knowledgements.md
+
 
 
 Indices and tables
