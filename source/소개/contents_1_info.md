@@ -7,4 +7,4 @@ kea dhcp 서버를 모니터링 및 관리하는 프로그램입니다.
 
 더 많은 정보를 보고 싶으시다면, [aircuve](https://aircuve.com)사이트를 방문해주세요.
 
-![alt](../_static/tmp.png)
+![alt](https://github.com/neneong/keaDHCPManager/blob/main/source/_static/tmp.png?raw=true)
