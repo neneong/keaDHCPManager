@@ -30,6 +30,7 @@ Welcome to KeaDHCPManger's documentation!
    사용법/contents_init.md
    사용법/contents_kea_server.md
    사용법/contents_subnet.md
+   사용법/contents_shared_network.md
 
 
 .. toctree::
