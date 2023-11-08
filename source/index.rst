@@ -41,7 +41,7 @@ Welcome to KeaDHCPManger's documentation!
    :numbered:
    :caption: 기타:
 
-   기타/etc.md
+   기타/contents_question_and_answer.md
    기타/contents_developer.md
    기타/contents_knowledgements.md
 
