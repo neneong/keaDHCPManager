@@ -5,7 +5,7 @@ Reservation
 
 reservation 정보 생성하기
 --------------------
-![사진을 불러올 수 없습니다.]()
+![사진을 불러올 수 없습니다.](https://github.com/neneong/keaDHCPManager/blob/main/source/_static/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202023-11-08%2011.13.24.png?raw=true)
 
 우측 상단 빨간색 **Add Reservation**버튼을 클릭해 reservation 생성 폼을 띄울 수 있다.  
 띄워진 reservation 생성 폼에서 **Server**, **Ip Version**, **Subnet**을 선택할 수 있다.  
