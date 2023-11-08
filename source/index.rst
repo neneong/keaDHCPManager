@@ -20,8 +20,8 @@ Welcome to KeaDHCPManger's documentation!
    :maxdepth: 2
    :caption: 다운로드:
 
-   다운로드/contents_installation.md
-
+   다운로드/contents_1_installation.md
+   다운로드/contents_2_setting.md
 
 .. toctree::
    :maxdepth: 2

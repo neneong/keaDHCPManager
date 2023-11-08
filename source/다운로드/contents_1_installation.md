@@ -9,7 +9,7 @@ kea DHCP Manager는 java spring boot 기반의 애플리케이션으로,
 
 `java -jar kea-dhcp-manager.jar`
 
-![alt](https://github.com/neneong/keaDHCPManager/blob/main/source/_static/start-spring-boot.png?raw=true)
+![사진을 불러올 수 없습니다](https://github.com/neneong/keaDHCPManager/blob/main/source/_static/start-spring-boot.png?raw=true)
 
 만약 실행이 정상적으로 되지 않는다면 다음의 항목을 체크해주세요.
 

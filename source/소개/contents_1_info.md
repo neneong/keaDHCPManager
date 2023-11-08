@@ -10,4 +10,4 @@ kea dhcp 서버를 모니터링 및 관리하는 프로그램입니다.
 
 Kea에 대해서 알아보고 싶다면 [kea-read-the-docs](https://kea.readthedocs.io/en/kea-2.4.0/)를 참조해보세요.
 
-![alt](https://github.com/neneong/keaDHCPManager/blob/main/source/_static/tmp.png?raw=true)
+![alt](https://github.com/neneong/keaDHCPManager/blob/main/source/_static/main.png?raw=true)
