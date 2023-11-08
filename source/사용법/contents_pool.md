@@ -13,7 +13,7 @@ pool 생성하기
 일반적인 경우 subnet 생성시에 자동으로 생성된 pool의 범위를 수정 하거나 삭제 후 pool을 추가해야한다.  
 원하는 정보를 입력한 후 **Submit**버튼을 클릭하여 subnet을 생성할 수 있다.  
 
-subnet의 상세페이지에서 **Create Subnet**버튼을 클릭하여 kea dhcp server의 정보나 shared network의 정보가 미리 선택되어 있는 상태로 pool 생성이 가능하다.  
+subnet의 상세페이지에서 **Add Pool**버튼을 클릭하여 kea dhcp server 정보, subnet 정보가 미리 선택되어 있는 상태로 pool 생성이 가능하다.  
 
 pool 모니터링
 -------------------
