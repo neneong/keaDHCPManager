@@ -58,10 +58,10 @@ http-host를 127.0.0.1에서 서버 주소로 바꿔주세요.
 
 바꾼 후, keactrl을 이용하여 정지 후, 시작 해주세요.
 
-`
+```
 keactrl stop
 keactrl start
-`
+```
 
 아무 오류 없이 정상적으로 시작된다면 kea를 kea Manager 서버에 연결할 준비는 거의 끝났습니다.
 
