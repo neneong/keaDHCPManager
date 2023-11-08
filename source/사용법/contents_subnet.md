@@ -11,6 +11,7 @@ subnet 생성하기
 띄워진 subnet 생성 폼에서 **ip version**, **Server**, **Shared Network**, **Subnet Mask**를 선택할 수 있다. 
 또한 **Ip Address**를 입력할 수 있으며, 올바른 정보를 입력하면 입력한 서브넷 주소의 Subnet Range, Network Address, Broadcast Address, Total Host Address Count를 함께 볼 수 있다.  
 원하는 정보를 입력한 후 **Submit**버튼을 클릭하여 subnet을 생성할 수 있다.  
+subnet이 생성되면 subnet 전체 범위와 같은 범위를 가진 pool이 자동으로 생성된다.
 
 kea dhcp server의 상세페이지, shared network의 상세페이지에서 **Create Subnet**버튼을 클릭하여 kea dhcp server의 정보나 shared network의 정보가 미리 선택되어 있는 상태로 subnet 생성이 가능하다.  
 
