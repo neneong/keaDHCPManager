@@ -42,4 +42,4 @@ DHCP4 IP 할당 전략 또는 DHCP6 IP 할당 전략의 **콤보 박스**에서 
 
 DHCP6 서버의 IP 할당 전략은 FLQ를 사용할 수 없다. 
 
-DHCP6 서버의 IP 할당 전략으로 FLQ를 사용할 수 없는 자세한 이유는 [kea 공식문서](https://kea.readthedocs.io/en/kea-2.4.0/arm/lease-expiration.html)를 참고하십시오.
+DHCP6 서버의 IP 할당 전략으로 FLQ를 사용할 수 없는 자세한 이유는 [kea 공식문서](https://kea.readthedocs.io/en/kea-2.4.0/arm/dhcp6-srv.html#free-lease-queue-allocator-prefix-delegation-only)를 참고하십시오.
