@@ -10,7 +10,7 @@ kea DHCP Manager는 kea와의 연동을 위해 kea control agent를 사용합니
 
 해당 파일을 텍스트 편집기로 열어보면 다음과 같이 나옵니다.
 
-`
+```jsonc
 {
   "Control-agent": {
     "control-sockets": {
@@ -48,7 +48,9 @@ kea DHCP Manager는 kea와의 연동을 위해 kea control agent를 사용합니
     ]
   }
 }
-`
+```
+
+
 
 여기에서 http-host를 바꾸어줘야 정상적으로 작동됩니다.
 
