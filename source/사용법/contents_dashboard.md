@@ -2,6 +2,7 @@ DashBoard
 =====================
     url: /
 네비게이션 바에서 **Home**를 클릭해 메인 페이지의 대시보드 탭을 열 수 있다.  
+![사진을 불러올 수 없습니다.](https://github.com/neneong/keaDHCPManager/blob/main/source/_static/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202023-11-08%2017.44.35.png?raw=true)
 
 대시보드에 보고 싶은 정보 추가하기
 --------------------
