@@ -29,4 +29,4 @@ pool의 상세페이지에선 pool의 범위나 설정을 수정하거나, reser
 pool 삭제
 -------------------
 pool 상세페이지의 Settings 마지막에 있는 **DELETE THIS POOL**를 이용하여 pool을 삭제할 수 있다.  
-pool 삭제시 삭제한 pool에 등록 되어 있는 임대 정보가 삭제될 수 있으며 
+pool 삭제시 삭제한 pool에 등록 되어 있는 임대 정보가 삭제될 수 있으며 삭제된 pool의 범위는 다른 pool을 생성하거나 기존 pool의 범위를 수정 할 때 사용될 수 있다.

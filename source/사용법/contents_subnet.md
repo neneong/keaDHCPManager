@@ -29,8 +29,11 @@ subnet의 상세페이지에선 subnet의 설정을 수정하거나, pool이나 
 subnet 설정
 -------------------
 ### IP 할당 전략
-subnet 상세 페이지에서 **IP 할당 전략**을 이용하여 subnet에 적용될 ip 할당전략을 변경할 수 있다.  
+subnet 상세 페이지에서 Settings의 **IP 할당 전략**을 이용하여 subnet에 적용될 ip 할당전략을 변경할 수 있다.  
 IP 할당 전략의 **콤보 박스**에서 원하는 할당 전략을 선택하고 **update**버튼을 눌러 할당 전략을 변경할 수 있다.
+
+### subnet이 소속된 shared network
+subnet 상세 페이지에서 Settings의 **shared network**을 이용하여 subnet이 소속된 shared network를 변경하거나 소속되지 않게 할 수 있다.
 
 subnet 삭제
 -------------------
