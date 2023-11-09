@@ -14,3 +14,6 @@ reservation 정보 생성하기
 
 subnet과 pool의 상세페이지에서 **Add Reservation**버튼을 클릭하여 미리 일부 정보가 선택되어 있는 상태로 Reservation 생성이 가능하다.  
 
+reservation 정보 삭제
+-------------------
+예약 테이블에서 삭제를 원하는 예약의 **DELETE**버튼을 클릭하여 예약 정보를 삭제할 수 있다.

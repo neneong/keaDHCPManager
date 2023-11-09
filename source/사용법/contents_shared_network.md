@@ -24,5 +24,13 @@ shared network 상세정보
 shared network페이지에서 shared network 주소를 클릭하여 상세 페이지를 열 수 있다.   
 shared network의 상세페이지에선 shared network의 설정을 수정하거나, subnet 정보를 생성, 다른 subnet을 해당 shared network에 포함 시킬 수 있고 shared network를 삭제할 수 있다.  
 
+kea dhcp server 설정
+-------------------
+### IP 할당 전략
+kea server 상세 페이지에서 **DHCP4 IP 할당 전략** 또는 **DHCP6 IP 할당 전략**을 이용하여 **다음에 생성될** 하위 shared network와 subnet의 ip 할당 전략을 변경할 수 있다.  
+DHCP4 IP 할당 전략 또는 DHCP6 IP 할당 전략의 **콤보 박스**에서 원하는 할당 전략을 선택하고 **update**버튼을 눌러 할당 전략을 변경할 수 있다.  
 
-
+shared network 삭제
+-------------------
+shared network 상세페이지의 Settings 마지막에 있는 **DELETE THIS SHARED NETWORK**를 이용하여 shared network을 삭제할 수 있다.  
+shared network 삭제시 삭제한 shared network에 등록 되어 있는 subnet이 삭제된다.  

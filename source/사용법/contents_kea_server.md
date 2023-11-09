@@ -24,6 +24,7 @@ kea dhcp server의 상세페이지에선 kea dhcp server의 설정을 수정하�
 
 kea dhcp server 설정
 -------------------
+kea dhcp server의 설정은 설정하고자 하는 kea dhcp server의 상세페이지에서 가능하다.  
 kea dhcp server의 설정은 대부분 DHCP4 서버와 DHCP6 서버의 설정을 따로 관리한다.  
 
 ### 임대 정보 데이터베이스 설정
@@ -43,3 +44,8 @@ DHCP4 IP 할당 전략 또는 DHCP6 IP 할당 전략의 **콤보 박스**에서 
 DHCP6 서버의 IP 할당 전략은 FLQ를 사용할 수 없다.  
 
 DHCP6 서버의 IP 할당 전략으로 FLQ를 사용할 수 없는 자세한 이유는 [kea 공식문서](https://kea.readthedocs.io/en/kea-2.4.0/arm/dhcp6-srv.html#free-lease-queue-allocator-prefix-delegation-only)를 참고하십시오.  
+
+kea dhcp server 삭제
+-------------------
+kea dhcp server 상세페이지의 Settings 마지막에 있는 **DELETE THIS SERVER**를 이용하여 kea dhcp server를 kea dhcp manager에서 삭제할 수 있다.  
+kea dhcp server 등록 삭제시 작동 중인 kea dhcp server는 그대로 작동하며, 서버 이름 이외의 설정 값은 kea dhcp server 설정파일에 모두 저장되어 있고 kea manager에서만 삭제된다.

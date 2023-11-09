@@ -26,5 +26,7 @@ pool 상세정보
 pool페이지에서 pool 주소를 클릭하여 상세 페이지를 열 수 있다.   
 pool의 상세페이지에선 pool의 범위나 설정을 수정하거나, reservation 정보를 추가, lease 정보를 강제 삽입, pool을 삭제할 수 있다.  
 
-
-
+pool 삭제
+-------------------
+pool 상세페이지의 Settings 마지막에 있는 **DELETE THIS POOL**를 이용하여 pool을 삭제할 수 있다.  
+pool 삭제시 삭제한 pool에 등록 되어 있는 임대 정보가 삭제될 수 있으며 

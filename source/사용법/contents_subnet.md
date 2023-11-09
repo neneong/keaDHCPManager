@@ -26,5 +26,7 @@ subnet 상세정보
 subnet페이지에서 subnet 주소를 클릭하여 상세 페이지를 열 수 있다.   
 subnet의 상세페이지에선 subnet의 설정을 수정하거나, pool이나 reservation 정보를 추가, subnet을 삭제할 수 있다.  
 
-
-
+subnet 삭제
+-------------------
+subnet 상세페이지의 Settings 마지막에 있는 **DELETE THIS SUBNET**를 이용하여 subnet을 삭제할 수 있다.  
+subnet 삭제시 삭제한 subnet에 등록 되어 있는 pool이 삭제된다.  
