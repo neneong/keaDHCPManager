@@ -26,6 +26,12 @@ subnet 상세정보
 subnet페이지에서 subnet 주소를 클릭하여 상세 페이지를 열 수 있다.   
 subnet의 상세페이지에선 subnet의 설정을 수정하거나, pool이나 reservation 정보를 추가, subnet을 삭제할 수 있다.  
 
+subnet 설정
+-------------------
+### IP 할당 전략
+subnet 상세 페이지에서 **IP 할당 전략**을 이용하여 subnet에 적용될 ip 할당전략을 변경할 수 있다.  
+IP 할당 전략의 **콤보 박스**에서 원하는 할당 전략을 선택하고 **update**버튼을 눌러 할당 전략을 변경할 수 있다.
+
 subnet 삭제
 -------------------
 subnet 상세페이지의 Settings 마지막에 있는 **DELETE THIS SUBNET**를 이용하여 subnet을 삭제할 수 있다.  
