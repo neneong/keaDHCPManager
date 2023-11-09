@@ -35,6 +35,7 @@ Welcome to KeaDHCPManger's documentation!
    사용법/contents_lease.md
    사용법/contents_reservation.md
    사용법/contents_dashboard.md
+   사용법/contents_event.md
 
 
 .. toctree::
