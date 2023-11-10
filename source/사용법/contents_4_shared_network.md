@@ -26,8 +26,11 @@ shared network의 상세페이지에선 shared network의 설정을 수정하거
 
 shared network 설정
 -------------------
+### shared network 이름 변경
+shared network 상세 페이지에서 Settings의 **공유 네트워크 이름**을 이용하여 shared network의 이름을 변경할 수 있다.
+
 ### IP 할당 전략
-shared network 상세 페이지에서 **IP 할당 전략**을 이용하여 **다음에 생성될** 하위 shared network와 subnet의 ip 할당 전략을 변경할 수 있다.  
+shared network 상세 페이지에서 Settings의 **IP 할당 전략**을 이용하여 **다음에 생성될** 하위 shared network와 subnet의 ip 할당 전략을 변경할 수 있다.  
 IP 할당 전략의 **콤보 박스**에서 원하는 할당 전략을 선택하고 **update**버튼을 눌러 할당 전략을 변경할 수 있다.  
 
 shared network 삭제

@@ -15,4 +15,4 @@ kea dhcp server 페이지, shared network 페이지, subnet 페이지에서 **p*
 
 대시보드에 있는 정보 상세보기
 --------------------
-메인 페이지의 대시보드에 있는 정보들의 제목(kea dhcp server와 shared network의 경우 이름, subnet의 경우 서브넷 주소)을 클릭하여 상제 정보를 열람 할 수 있다.  
+메인 페이지의 대시보드에 있는 정보들의 제목(kea dhcp server와 shared network의 경우 이름, subnet의 경우 서브넷 주소)을 클릭하여 상제 페이지로 이동할 수 있다.
