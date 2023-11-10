@@ -27,15 +27,15 @@ Welcome to KeaDHCPManger's documentation!
    :maxdepth: 2
    :caption: 사용법:
 
-   사용법/contents_init.md
-   사용법/contents_kea_server.md
-   사용법/contents_subnet.md
-   사용법/contents_shared_network.md
-   사용법/contents_pool.md
-   사용법/contents_lease.md
-   사용법/contents_reservation.md
-   사용법/contents_dashboard.md
-   사용법/contents_event.md
+   사용법/contents_1_init.md
+   사용법/contents_2_kea_server.md
+   사용법/contents_3_subnet.md
+   사용법/contents_4_shared_network.md
+   사용법/contents_5_pool.md
+   사용법/contents_6_lease.md
+   사용법/contents_7_reservation.md
+   사용법/contents_8_dashboard.md
+   사용법/contents_9_event.md
 
 
 .. toctree::
