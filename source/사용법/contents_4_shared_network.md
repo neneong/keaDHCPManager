@@ -26,7 +26,7 @@ shared network의 상세페이지에선 shared network의 설정을 수정하거
 
 shared network 설정
 -------------------
-### shared network 이름 변경
+### shared network 이름
 shared network 상세 페이지에서 Settings의 **공유 네트워크 이름**을 이용하여 shared network의 이름을 변경할 수 있다.
 
 ### IP 할당 전략

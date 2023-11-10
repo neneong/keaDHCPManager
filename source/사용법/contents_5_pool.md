@@ -28,8 +28,8 @@ pool의 상세페이지에선 pool의 범위나 설정을 수정하거나, reser
 
 pool 설정
 -------------------
-### pool 이름 변경
-shared network 상세 페이지에서 Settings의 **공유 네트워크 이름**을 이용하여 shared network의 이름을 변경할 수 있다.
+### pool 범위
+pool 상세 페이지에서 Settings의 **pool range**의 값을 수정하고 **update**버튼을 클릭해 pool의 범위를 변경할 수 있다.  
 
 pool 삭제
 -------------------
