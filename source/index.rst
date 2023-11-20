@@ -18,6 +18,7 @@ Welcome to KeaDHCPManger's documentation!
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
    :caption: 다운로드:
 
    다운로드/contents_1_installation.md
@@ -34,8 +35,8 @@ Welcome to KeaDHCPManger's documentation!
    사용법/contents_5_pool.md
    사용법/contents_6_lease.md
    사용법/contents_7_reservation.md
-   사용법/contents_8_dashboard.md
-   사용법/contents_9_event.md
+   사용법/contents_8_event.md
+   사용법/contents_9_dashboard.md
 
 
 .. toctree::
@@ -46,7 +47,7 @@ Welcome to KeaDHCPManger's documentation!
    기타/contents_question_and_answer.md
    기타/contents_developer.md
    기타/contents_knowledgements.md
-
+   기타/contents_test_platform.md
 
 
 Indices and tables
